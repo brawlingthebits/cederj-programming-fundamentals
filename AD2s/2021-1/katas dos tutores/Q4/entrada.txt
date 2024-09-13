@@ -1,0 +1,3 @@
+frete.bin
+produto.txt
+00000990

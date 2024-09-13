@@ -1,0 +1,10 @@
+França#Paris#Charles de Gaulle#Air France&TAP&LATAM&Lufthansa&KLM
+França#Paris#Orly#Air France&TAP&Lufthansa
+França#Lyon#Saint-Exupéry#TAP&Air France
+Brasil#Rio de Janeiro#Tom Jobim#GOL&LATAM&Azul&Lufthansa&KLM&Air France
+Brasil#Rio de Janeiro#Santos Dummont#GOL&LATAM&Azul
+Brasil#Campinas#Vicacopos#Azul
+EUA#Nova Iorque#John F. Kennedy#United Airlines&Delta Air Lines&American Airlines&LATAM&Air France
+EUA#Nova Iorque#LaGuardia#United Airlines&Delta Air Lines&American Airlines
+Argentina#Buenos Aires#Ezeiza#GOL&Aerolineas Argentinas
+Argentina#Buenos Aires#Aeroparque#GOL&LATAM&Aerolineas Argentinas&Azul

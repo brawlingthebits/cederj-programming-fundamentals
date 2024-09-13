@@ -1,0 +1,3 @@
+dolar#real#4.81
+euro#real#5.17
+euro#dolar#1.07

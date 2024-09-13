@@ -1,0 +1,4 @@
+Nome1#Esposa#Luminaria&150,00;Viagem&4000,00;Celular&1800,00
+Nome2#Filho#Celular&1800,00;Roupa&500,00;Celular&1800,00
+Nome3#Mãe#Blusa&80,00;Sapato&150,00;Viagem&1500,00;Celular&1800,00
+Nome4#Pai#Sapato&150,00

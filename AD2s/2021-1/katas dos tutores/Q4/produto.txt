@@ -1,0 +1,5 @@
+produto1
+
+loja1 127.58
+loja2 120.40
+loja3 90.78

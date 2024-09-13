@@ -1,0 +1,7 @@
+para validar minha solução foi
+preciso fazer o teste de mesa
+do algoritmo elaborado
+só depois do teste de mesa que
+o programa foi implementado
+essa estratégia poupou bastan-
+te tempo de desenvolvimento
